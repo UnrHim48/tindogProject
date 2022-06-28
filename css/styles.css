@@ -165,6 +165,10 @@ p {
 .social-icon {
   margin: 20px 10px;
 }
+.footer-link
+{
+  color: #8f8f8f;
+}
 
 @media (max-width: 1028px) {
 

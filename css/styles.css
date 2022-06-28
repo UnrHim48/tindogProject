@@ -165,12 +165,12 @@ p {
 .social-icon {
   margin: 20px 10px;
 }
-.footer-link
+a
 {
   text-decoration: none;
   color: #8f8f8f;
 }
-.footer-link:hover{
+a:hover{
   color:#EAF6F6;
 }
 
